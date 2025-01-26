@@ -8,8 +8,8 @@
 ### Problemas encontrados
 
   Alguns sites tem uma segurança maior na hora de clonar, por isso 
-foi necesserário mudar para o método "Web Templates" e utilizar a conta google.
-  Além disso, caso não der certo colocar https em vez de http.
+foi necesserário mudar para o método "Web Templates" e utilizar a conta do google.
+  Além disso, caso não der certo, colocar https em vez de http.
 
 ### Passo a passo da configuração do Phishing no Kali Linux
 
